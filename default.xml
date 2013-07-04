@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="aosp"
+           fetch="."
+           review="https://github.com/crewrktablets/" />
+  <default revision="4.2.2_r1.2"
+           remote="aosp"
+           sync-j="4" />
+
+  <project path="" name="android" />
+  <project path="device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="4.2" />
+  
+</manifest>
+
