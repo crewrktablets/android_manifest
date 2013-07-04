@@ -8,8 +8,8 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="" name="android" />
-  <project path="device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="4.2" />
+  <project path="android" name="android" />
+  <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="4.2" />
   
 </manifest>
 
