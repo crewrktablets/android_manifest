@@ -1,4 +1,4 @@
 android_manifest
 ================
 
-Manifest for our Android Sourcecode
+Manifest for our Cyanogenmod Android Sourcecode CM-10.1

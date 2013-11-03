@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote  name="cm-10.1"
            fetch="."
            review="https://github.com/crewrktablets/" />
-  <default revision="refs/heads/4.2.2_r1.2"
-           remote="aosp"
+  <default revision="refs/heads/cm-10.1"
+           remote="cm-10.1"
            sync-j="4" />
 
   <project path="android" name="android" />
-  <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="refs/heads/4.2" />
-  <project path="android/device/rockchip/rk30board" name="android_device_rockchip_rk30board" revision="refs/heads/4.2" />
-  <project path="android/device/rockchip/rk31board" name="android_device_rockchip_rk31board" revision="refs/heads/4.2" />
+  <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="refs/heads/cm-10.1" />
+  <project path="android/device/rockchip/rk30board" name="android_device_rockchip_rk30board" revision="refs/heads/cm-10.1" />
   
 </manifest>
 
