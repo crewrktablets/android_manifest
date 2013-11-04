@@ -9,8 +9,8 @@
            sync-j="4" />
 
   <project path="android" name="android" />
-  <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="refs/tags/cm-10.1" />
-  <project path="android/device/rockchip/rk30board" name="android_device_rockchip_rk30board" revision="refs/tags/cm-10.1" />
+  <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="cm-10.1" />
+  <project path="android/device/rockchip/rk30board" name="android_device_rockchip_rk30board" revision="cm-10.1" />
   
 </manifest>
 
