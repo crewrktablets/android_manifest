@@ -8,7 +8,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="android_aosp" name="android" />
+  <project path="android" name="android_aosp" />
   <project path="android/device/rockchip/rk29board" name="android_device_rockchip_rk29board" revision="refs/heads/4.2" />
   <project path="android/device/rockchip/rk30board" name="android_device_rockchip_rk30board" revision="refs/heads/4.2" />
   <project path="android/device/rockchip/rk31board" name="android_device_rockchip_rk31board" revision="refs/heads/4.2" />
